@@ -56,3 +56,17 @@ h1{
     color: #fff;
     min-height: 500px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: #fff;
+    border-color: lightgrey;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+.image{
+    float: left;
+    margin: 10px;
+}
